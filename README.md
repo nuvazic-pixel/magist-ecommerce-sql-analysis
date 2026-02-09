@@ -51,13 +51,15 @@ Product names are anonymised → category-level analysis only
 > Share of tech products sold vs total marketplace volume  
 > Monthly order trends (July 2017 – June 2018)
 
-_Add screenshots to `/im![Uploading avg_delivery_time.png…]()
-ages` and embed them here._
+
+<img width="2328" height="1306" alt="tech_product_share" src="https://github.com/user-attachments/assets/d1613b69-95e3-40ce-bd59-6b692dac29b5" />
+<img width="2332" height="1314" alt="Screenshot 2026-02-09 192009" src="https://github.com/user-attachments/assets/26813ac0-6cb4-4cbc-bfcf-279671bb806c" />
+<img width="2328" height="1309" alt="monthly_orders" src="https://github.com/user-attachments/assets/961afcde-3c46-47d5-8db7-af280dd72986" />
 
 ---
 
 ##  How to Use This Project
-1. Review SQL analysis in `/sql/magist_analysis.sql`
+1. Review SQL analysis in `  `
 2. Explore insights via Tableau dashboards
 3. Follow the query logic to reproduce results
 

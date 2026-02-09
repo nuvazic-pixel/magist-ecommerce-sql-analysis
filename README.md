@@ -51,7 +51,8 @@ Product names are anonymised → category-level analysis only
 > Share of tech products sold vs total marketplace volume  
 > Monthly order trends (July 2017 – June 2018)
 
-_Add screenshots to `/images` and embed them here._
+_Add screenshots to `/im![Uploading avg_delivery_time.png…]()
+ages` and embed them here._
 
 ---
 

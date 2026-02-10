@@ -59,7 +59,7 @@ Product names are anonymised → category-level analysis only
 ---
 
 ##  How to Use This Project
-1. Review SQL analysis in `  `
+1. Review SQL analysis in (https://github.com/nuvazic-pixel/magist-ecommerce-sql-analysis/blob/main/explore_the_dataset%20(1).sql)
 2. Explore insights via Tableau dashboards
 3. Follow the query logic to reproduce results
 

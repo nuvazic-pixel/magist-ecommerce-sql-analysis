@@ -73,5 +73,5 @@ Product names are anonymised → category-level analysis only
 ---
 
 ##  Contact
-**LinkedIn:** *(add your LinkedIn URL here)*  
+**LinkedIn:** (https://www.linkedin.com/in/mark-sebastian-bistrean-chirodea-224579167/) 
 **GitHub:** https://github.com/nuvazic-pixel

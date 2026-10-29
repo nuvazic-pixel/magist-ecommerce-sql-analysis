@@ -440,8 +440,8 @@ GROUP BY delivery_status;
 -- delayed orders: 6665 / orders delivered on time: 89805
 
 -- percentage of delayed orders
-SELECT ROUND(6665/89805*100,2);
--- 7.42% of orders delayed
+SELECT ROUND(6665.0 / (6665 + 89805) * 100, 2) AS late_delivery_rate_pct;
+-- 6.91% based on the recorded counts above; rerun with the source database.
 
 /* 11. Is there any pattern for delayed orders, e.g. big products being delayed more often?*/
 
